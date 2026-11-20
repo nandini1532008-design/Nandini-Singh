@@ -1,0 +1,8 @@
+{
+  "name": "CodeSense AI",
+  "description": "Think Smarter. Code Better. AI-powered code review platform for bug detection, security analysis, performance optimization, and beginner-friendly explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
